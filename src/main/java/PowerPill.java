@@ -3,7 +3,7 @@
  * a game.  The purpose of a power pill is to simply
  * provide a character with power.
  *
- * @author (You)
+ * @author (Haley Crawford)
  * @version (0.1)
  */
 public class PowerPill
